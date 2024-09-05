@@ -1,2 +1,2 @@
 - name: Add .nojekyll file
-  run: touch ${{ env.PUBLISH_DIR }}/.nojekyll
+  run: touch customerorderapp/.nojekyll
