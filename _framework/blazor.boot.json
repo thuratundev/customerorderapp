@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AppStartUp",
   "resources": {
-    "hash": "sha256-qTsYGlln8TG17KbSTC04fhjUbWHkaovCAWW2TCOJIM0=",
+    "hash": "sha256-FToiT6eC0yDgku2fhR6vDkK7KuyfprN55ZApJjOKqAs=",
     "jsModuleNative": {
       "dotnet.native.8.0.5.u5tpxl60gc.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
     },
@@ -17,8 +17,8 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "AppStartUp.wasm": "sha256-GoD63V0+PIBuaWeOraOzmiBfhvlOBVOdwJhebMVP2uw=",
-      "Components.wasm": "sha256-9GpEN6g+lzH36yctHFPIpZrpJxt9AYRsw9W3Gxl/xw4=",
+      "AppStartUp.wasm": "sha256-xSZMjG2GmIVM2FVzEE0LsV31LmsRM+uAQqfbB/XW85o=",
+      "Components.wasm": "sha256-Ruvb4vQpz0eppOA2T1I+qeP1tx9lQTXKXd6iiTJDRlM=",
       "ComponentsViewModel.wasm": "sha256-irHV7BoeWyI4LiWEZ9+eqDKPnxN472SGnqrf1dX0QsE=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-otaHVV+wNUYShtezT2jeFxqJpzzpltizjuPLy6ZDFSA=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-7Mtb8XcE8dplnDII23Rnd2EZvv0UieaqD40m5b/Hr2g=",
