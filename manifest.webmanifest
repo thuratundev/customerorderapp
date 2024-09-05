@@ -2,7 +2,7 @@
   "name": "CustomerOrderApp",
   "short_name": "CustomerOrderApp",
   "id": "./",
-  "start_url": "index.html?fullscreen=true",
+  "start_url": "./?fullscreen=true",
   "display": "fullscreen",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
